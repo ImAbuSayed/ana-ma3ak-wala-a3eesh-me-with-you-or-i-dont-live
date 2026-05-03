@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> قلبي معاك في كل مكان
+> روحي تعيش في دفا الأمان
+> نار الشوق بتنادي هواك
+> عمري يضيع لو مش وياك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
