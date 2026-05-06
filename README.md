@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-ma3ak-wala-a3eesh-me-with-you-or-i-dont-live/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Sync Licensing for Ana Ma3ak Wala A3eesh – Me with You or I Don't Live](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Ana Ma3ak Wala A3eesh – Me with You or I Don't Live](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
