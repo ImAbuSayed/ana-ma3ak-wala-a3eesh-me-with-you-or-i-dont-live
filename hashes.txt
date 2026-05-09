@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ana Ma3ak Wala A3eesh – Me with You or I Don't Live
+
+This log tracks the cryptographic history and versioning for the song **Ana Ma3ak Wala A3eesh – Me with You or I Don't Live** (ana-ma3ak-wala-a3eesh-me-with-you-or-i-dont-live).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T07:54:35.912297 | `v1` | `99482b5f6372c875a20e9b5b958cf425f0d6771942927adc2d0f42b315a164b0` | `d4a10f516f9b89546e131e5d3169906cc328a29d1fb3467a45bcd8a4c684959e` | `2026-05-09_ana-ma3ak-wala-a3eesh-me-with-you-or-i-dont-live-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
